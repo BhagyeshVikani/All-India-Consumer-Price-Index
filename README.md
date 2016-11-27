@@ -6,7 +6,6 @@ Name : Bhagyesh Vikani <br/>
 Email : bhagyeshvikani@gmail.com
 ---
 ## Dataset
-
 Name : All India Consumer Price Index (Jan, 2013 - Aug, 2016) <br />
 Source : data.gov.in <br />
 Format : CSV <br />
