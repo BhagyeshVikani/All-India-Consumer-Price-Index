@@ -1,6 +1,4 @@
 # All-India-Consumer-Price-Index
-Analysis : All India Consumer Price Index
----
 
 ## Auther
 Name : Bhagyesh Vikani <br/>
